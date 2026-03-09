@@ -63,5 +63,4 @@ house-price-prediction/
 
 ## Dataset
 
-- The dataset is not included in this repository because it exceeds GitHub's file size limit.
-- Place the dataset in the following path: data/house_prices.csv
+- 因数据集过大无法上传，以下是数据集链接：https://www.kaggle.com/datasets/juhibhojani/house-price
