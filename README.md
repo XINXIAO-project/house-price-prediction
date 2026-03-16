@@ -50,6 +50,7 @@ house-price-prediction/
 
 ---
 
+
 ## 更新与日志
 - **日常开发记录**：请查阅 `project_log.md` 获取每日进度。
 - **文档维护**：`README.md` 仅在项目架构变更、功能迭代或重大修改时更新。
@@ -60,6 +61,7 @@ house-price-prediction/
 - **项目性质**：本项目仅供个人学习与研究使用。
 - **数据来源**：California Housing Dataset。
 - **推荐环境**：Python 3.x，建议使用虚拟环境进行管理。
+
 
 ## Dataset
 
